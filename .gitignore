@@ -1,0 +1,7 @@
+.DS_Store
+
+Logs/
+
+#*/*.sln
+*/Library
+*/Library/Artifacts/
